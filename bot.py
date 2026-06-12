@@ -13,8 +13,8 @@ from aiogram.fsm.context import FSMContext
 from aiogram.fsm.state import State, StatesGroup
 from aiogram.utils.keyboard import InlineKeyboardBuilder
 
-BOT_TOKEN = ""  # <-- ВСТАВЬТЕ СВОЙ ТОКЕН СЮДА
-ADMIN_IDS = []
+BOT_TOKEN = "8751175922:AAFQz3Cqelelj871SoiH99ljL7aLv4iaOGs"  # <-- ВСТАВЬТЕ СВОЙ ТОКЕН СЮДА
+ADMIN_IDS = [5439940299]
 
 START_GOLD = 1000
 START_POPULATION = 0
